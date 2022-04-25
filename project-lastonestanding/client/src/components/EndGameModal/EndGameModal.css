@@ -1,0 +1,21 @@
+.my-modal {
+    min-width: 300px;
+}
+
+.modal-header {
+    justify-content: center !important;
+}
+
+.endgame-score {
+    text-align: center;
+}
+
+.modal-footer {
+    justify-content: center !important;
+    padding: 0 !important;
+    border-top: 0 !important;
+}
+
+.table {
+    margin-top: 30px;
+}
